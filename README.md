@@ -1,7 +1,7 @@
 # CrewAI Multi-Agent Orchestration System
 
 ## Introduction
-Welcome to our **CrewAI Automated System**. This repository contains a powerful, end-to-end implementation of AI agents working collaboratively to automate complex workflows, generate content, analyze data, and perform specialized tasks. Built on top of the [CrewAI framework](https://github.com/crewAIInc/crewAI), this project showcases how role-playing AI agents can be orchestrated to achieve real-world business objectives.
+Welcome to our **CrewAI Automated System**. This repository contains a powerful, end-to-end implementation of AI agents working collaboratively to automate complex workflows, generate content, analyze data, and perform specialized tasks.This project showcases how role-playing AI agents can be orchestrated to achieve real-world business objectives.
 
 > **💡 Note:** This project utilizes **CrewAI version 0.152.0** and relies on **UV package management** for blazing-fast dependency resolution and optimal developer experience.
 
@@ -81,3 +81,4 @@ Create a copy of it and name it .env.
 Bash
 # On macOS/Linux
 cp .env
+
