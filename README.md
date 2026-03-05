@@ -55,9 +55,6 @@ API Keys: Depending on the project, you will need an OpenAI API Key (or another 
 Step 1: Clone the Repository
 First, download the complete collection of examples to your local machine.
 
-Bash
-git clone https://github.com/crewAIInc/crewAI-examples.git
-cd crewAI-examples
 Step 2: Choose an Example
 This repository is divided into different architectural patterns. Browse the folders to find a project that matches your use case:
 
@@ -74,11 +71,6 @@ cd crews/marketing_strategy
 Step 3: Configure Environment Variables
 Every example requires certain API keys to function, usually starting with an LLM provider.
 
-Locate the .env.example file in the project folder.
 
-Create a copy of it and name it .env.
 
-Bash
-# On macOS/Linux
-cp .env
 
